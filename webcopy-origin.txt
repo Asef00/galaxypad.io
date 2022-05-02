@@ -1,0 +1,248 @@
+Uri: https://galaxypad.io/
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\index.htm
+Content Type: text/html
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\npm\bootstrap@5.0.2\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://galaxypad.io/assets/images/svg/favi-icon.svg
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\svg\favi-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.css
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\aos@2.3.1\dist\aos.css
+Content Type: text/css
+
+Uri: https://galaxypad.io/assets/css/style.css
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\css\style.css
+Content Type: text/css
+
+Uri: https://app.galaxypad.io/
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\index-1.htm
+Content Type: text/html
+
+Uri: https://www.pinksale.finance/
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\index-2.htm
+Content Type: text/html
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://galaxypad.io/assets/images/png/headerlogo.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\headerlogo.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/hero-img.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\hero-img.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/Rectangle 10.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\Rectangle 10.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/Asset 4 1 (1).png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\Asset 4 1 (1).png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/launchedPad.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\launchedPad.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/planetIncube.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\planetIncube.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/palnetmarketplace.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\palnetmarketplace.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/planetFrm.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\planetFrm.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/galaxykingdom.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\galaxykingdom.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/governence.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\governence.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/earth-right.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\earth-right.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/infraImg.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\infraImg.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/VectorCube.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\VectorCube.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/Vector.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\Vector.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/planet-power-side-img.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\planet-power-side-img.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/Artboard-img.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\Artboard-img.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/full-artboard-img.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\full-artboard-img.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/fully-vetted-projects-img.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\fully-vetted-projects-img.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/community-mind-img.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\community-mind-img.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/startups-support-img.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\startups-support-img.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/captain-america-shield-img.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\captain-america-shield-img.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/astronut.png.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\astronut.png.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/milky-way-galaxy-img.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\milky-way-galaxy-img.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/Whirlpool-img.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\Whirlpool-img.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/Cartwheel-img.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\Cartwheel-img.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/Black-Eye-img.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\Black-Eye-img.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/blure-image.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\blure-image.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/chart-img.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\chart-img.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/svg/grey.svg
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\svg\grey.svg
+Content Type: image/svg+xml
+
+Uri: https://galaxypad.io/assets/images/svg/dark-pink.svg
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\svg\dark-pink.svg
+Content Type: image/svg+xml
+
+Uri: https://galaxypad.io/assets/images/svg/light-pink.svg
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\svg\light-pink.svg
+Content Type: image/svg+xml
+
+Uri: https://galaxypad.io/assets/images/svg/blue.svg
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\svg\blue.svg
+Content Type: image/svg+xml
+
+Uri: https://galaxypad.io/assets/images/svg/pink-round.svg
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\svg\pink-round.svg
+Content Type: image/svg+xml
+
+Uri: https://galaxypad.io/assets/images/png/rocket-image.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\rocket-image.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/earth-roadmap.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\earth-roadmap.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/roadmap-point-1.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\roadmap-point-1.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/logo-galaxy-pad.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\logo-galaxy-pad.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/svg/telegram.svg
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\svg\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://galaxypad.io/assets/images/svg/twitter.svg
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\svg\twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://galaxypad.io/assets/images/svg/Mail.svg
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\svg\Mail.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\npm\@popperjs\core@2.9.2\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\npm\bootstrap@5.0.2\dist\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\ajax\libs\jquery\3.6.0\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.js
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\aos@2.3.1\dist\aos.js
+Content Type: application/javascript
+
+Uri: https://galaxypad.io/assets/js/link.js
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\js\link.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Fira+Sans&family=Raleway:wght@400;500;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\css2.css
+Content Type: text/css
+
+Uri: https://galaxypad.io/assets/images/png/hero-bg.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\hero-bg.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/Line-roadmap.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\Line-roadmap.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/png/roadmapbg.png
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\png\roadmapbg.png
+Content Type: image/png
+
+Uri: https://galaxypad.io/assets/images/svg/chevron-double-up.svg
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\assets\images\svg\chevron-double-up.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\css2-1.css
+Content Type: text/css
+
+Uri: https://galaxypad.gitbook.io/galaxypad/
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\galaxypad\index.htm
+Content Type: text/html
+
+Uri: https://docs.google.com/forms/d/e/1FAIpQLSeahmQCMmrIbWCnPSmF3PBDaiM6NcowENwtM03xQk2SMmbAgw/viewform?usp=send_form
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\forms\d\e\1FAIpQLSeahmQCMmrIbWCnPSmF3PBDaiM6NcowENwtM03xQk2SMmbAgw\viewform.html
+Content Type: text/html
+
+Uri: https://medium.com/@galaxypadofficial
+File Name: C:\Downloaded Web Sites\galaxypad\galaxypad.io\@galaxypadofficial.html
+Content Type: text/html
+

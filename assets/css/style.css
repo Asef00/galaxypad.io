@@ -1,0 +1,1106 @@
+@import url("../../css2.css");
+
+body,
+html {
+  background-color: var(--bold-blue);
+  font-family: "Raleway", sans-serif;
+  overflow-x: hidden;
+}
+
+body,
+html {
+  overflow-x: hidden;
+}
+.ff-fira-sains {
+  font-family: "Fira Sans", sans-serif !important;
+}
+.max-w-1920px {
+  max-width: 1920px !important;
+}
+:root {
+  /*================================== FONT-SIZES ================================================ */
+  --font-normal: 18px;
+  --font-sm: 19px;
+  --font-md: 20px;
+  --font-xlg: 24px;
+  --font-lg: 34px;
+  --font-xl: 45px;
+  --font-xxl: 55px;
+  --font-xxxl: 75px;
+
+  /*================================== COLOR-CLASS ================================================ */
+  --white: #fafafa;
+  --black: #000000;
+  --bold-blue: #1c0d38;
+  --blue: #5a25c4;
+}
+
+/*====================================== Media-queries-start ======================================== */
+@media (max-width: 1599.98px) {
+  :root {
+    --font-xxxl: 60px;
+  }
+}
+@media (max-width: 1440px) {
+  .hero-section {
+    min-height: inherit !important;
+  }
+  .w-md-70 {
+    width: 70% !important;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  :root {
+    --font-normal: 17px;
+    --font-sm: 18px;
+    --font-md: 20px;
+    --font-xlg: 24px;
+    --font-lg: 34px;
+    --font-xl: 45px;
+    --font-xxl: 55px;
+    --font-xxxl: 65px;
+  }
+  .h-25 {
+    height: 18% !important;
+  }
+  .w-md-70 {
+    width: 70% !important;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  :root {
+    --font-normal: 16px;
+    --font-sm: 17px;
+    --font-md: 20px;
+    --font-xlg: 22px;
+    --font-lg: 32px;
+    --font-xl: 42px;
+    --font-xxl: 50px;
+    --font-xxxl: 54px;
+  }
+
+  .h-25 {
+    height: 13% !important;
+  }
+  .w-md-70 {
+    width: 70% !important;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  :root {
+    --font-normal: 14px;
+    --font-sm: 16px;
+    --font-md: 18px;
+    --font-xlg: 20px;
+    --font-lg: 30px;
+    --font-xl: 40px;
+    --font-xxl: 48px;
+    --font-xxxl: 52px;
+  }
+
+  .hero-section {
+    background-position: top !important;
+  }
+
+  .h-25 {
+    height: 13% !important;
+  }
+  .w-md-70 {
+    width: 70% !important;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  :root {
+    --font-normal: 14px;
+    --font-sm: 16px;
+    --font-md: 18px;
+    --font-xlg: 19px;
+    --font-lg: 28px;
+    --font-xl: 38px;
+    --font-xxl: 44px;
+    --font-xxxl: 50px;
+  }
+
+  .hero-image {
+    width: 50% !important;
+    position: inherit !important;
+  }
+
+  .hero-section {
+    background-position: top !important;
+  }
+
+  .height-66 {
+    height: 37% !important;
+  }
+
+  .roadmap-bg {
+    height: 100% !important;
+  }
+  .w-md-70 {
+    width: 70% !important;
+  }
+}
+
+@media (max-width: 575.98px) {
+  :root {
+    --font-normal: 13px;
+    --font-sm: 14px;
+    --font-md: 16px;
+    --font-xlg: 18px;
+    --font-lg: 22px;
+    --font-xl: 36px;
+    --font-xxl: 40px;
+    --font-xxxl: 46px;
+  }
+
+  .hero-section {
+    background-position: top !important;
+  }
+
+  .height-66 {
+    height: 37% !important;
+  }
+
+  .roadmap-bg {
+    height: 100% !important;
+  }
+  .w-md-70 {
+    width: 70% !important;
+  }
+}
+
+@media (max-width: 475.98px) {
+  :root {
+    --font-normal: 12px;
+    --font-sm: 14px;
+    --font-md: 16px;
+    --font-xlg: 18px;
+    --font-lg: 20px;
+    --font-xl: 32px;
+    --font-xxl: 34px;
+    --font-xxxl: 36px;
+  }
+
+  .hero-section {
+    background-position: top !important;
+  }
+
+  .height-66 {
+    height: 37% !important;
+  }
+
+  .roadmap-bg {
+    height: 100% !important;
+  }
+}
+
+/*====================================== Media-queries-end =========================================== */
+/*====================================== FONT-SIZE CLASS START ======================================= */
+.font-normal {
+  font-size: var(--font-normal) !important;
+}
+
+.font-sm {
+  font-size: var(--font-sm) !important;
+}
+
+.font-md {
+  font-size: var(--font-md) !important;
+}
+
+.font-xlg {
+  font-size: var(--font-xlg) !important;
+}
+
+.font-lg {
+  font-size: var(--font-lg) !important;
+}
+
+.font-xl {
+  font-size: var(--font-xl) !important;
+}
+
+.font-xxl {
+  font-size: var(--font-xxl) !important;
+}
+
+.font-xxxl {
+  font-size: var(--font-xxxl) !important;
+}
+
+/*====================================== FONT-SIZE CLASS END ======================================= */
+/*====================================== FONT-WEIGHT SIZE CLASS START ============================== */
+.fw-normal {
+  font-weight: 400 !important;
+}
+
+.fw-medium {
+  font-weight: 500 !important;
+}
+
+.fw-semibold {
+  font-weight: 600 !important;
+}
+
+.fw-semi-bold {
+  font-weight: 700 !important;
+}
+
+.fw-bold {
+  font-weight: 800 !important;
+}
+
+/*====================================== FONT-WEIGHT SIZE CLASS END ========================================= */
+/*====================================== COLOR CLASS START =================================================== */
+.text-white {
+  color: var(--white) !important;
+}
+
+.text-black {
+  color: var(--black) !important;
+}
+
+/*===================================== COLOR CLASS END ======================================================== */
+/*===================================== BACKGROUND-COLOR CLASS START =========================================== */
+
+.bg-color-white {
+  background-color: var(--white) !important;
+}
+
+.bg-color-black {
+  background-color: var(--black) !important;
+}
+
+.bg-bold-blue {
+  background-color: var(--bold-blue) !important;
+}
+
+/*================================== BACKGROUND-COLOR CLASS END ================================================= */
+/*================================== OPACITY CLASS START ======================================================== */
+.opacity-07 {
+  opacity: 0.7 !important;
+}
+
+/*================================== OPACITY CLASS END ======================================================== */
+/* ================================== COMMON CLASS START  ===================================================== */
+.small-heading {
+  font-size: var(--font-xxl);
+  font-weight: 700;
+  color: var(--white);
+}
+
+.heading {
+  font-size: var(--font-xxxl);
+  font-weight: 900;
+  color: var(--white);
+}
+
+.para {
+  font-size: var(--font-sm);
+  font-weight: 500;
+  color: var(--white);
+}
+
+.common-btn {
+  font-size: var(--font-sm);
+  font-weight: 700;
+  color: var(--white);
+  background: linear-gradient(180deg, #ae00ff 0%, rgba(5, 0, 255, 0.35) 100%);
+  border-radius: 54px;
+  transition: all 0.5s ease-in-out;
+}
+
+.common-btn:hover {
+  color: var(--white);
+  box-shadow: 0px 0px 30px #ae00ff;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+/* ================================== COMMON CLASS END ================================================== */
+/* ================================== HERO-CSS=========================================================== */
+.hero-section {
+  background-image: url("../images/png/hero-bg.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 98vh;
+}
+
+.hero-fast-heading {
+  font-size: var(--font-md);
+  font-weight: 700;
+  color: var(--white);
+}
+
+.buy-btn {
+  color: var(--white);
+  font-weight: 500;
+  font-size: var(--font-md);
+  border: 1px solid #ae00ff;
+  background-color: transparent;
+  border-image-slice: 1;
+  transition: all 0.5s ease-in-out;
+}
+.buy-btn:hover {
+  color: var(--white);
+  box-shadow: 0px 0px 30px #ae00ff;
+}
+.earth-image {
+  z-index: 0;
+  top: -52%;
+}
+.hero-image {
+  position: absolute;
+  right: 0;
+  z-index: 1;
+}
+
+/* ================================== HERO-CSS=ENDS====================================================== */
+/* ===================================astronat-css========================================================*/
+.power-card {
+  border: 1px solid #0000001a;
+  border-radius: 24.05px;
+  background: #ffffff1f;
+  transition: all 0.4s ease-in-out;
+}
+
+.power-card:hover {
+  transform: translateY(-10px);
+}
+
+.power-card-heading {
+  font-size: var(--font-xlg);
+  font-weight: 900;
+  color: var(--white);
+  margin-top: -40px;
+}
+
+.power-card img {
+  transform: translateY(-50%);
+}
+
+.planet-power-side-img {
+  right: 0;
+  top: -280px;
+  z-index: 0;
+}
+
+.img-box {
+  border: 1.00228px solid rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+  border-radius: 24px;
+  background-color: #271942;
+  transition: all 0.5s ease-in-out;
+}
+.img-box:hover {
+  transform: translateY(-10px);
+}
+.reactangle-box {
+  border: 1.00228px solid rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+  border-radius: 24px;
+  background-color: #271942;
+  height: 100%;
+  transition: all 0.5s ease-in-out;
+}
+.reactangle-box:hover {
+  transform: translateY(-10px);
+}
+.infraImg {
+  top: 90px;
+  left: 0;
+  z-index: 0;
+  width: 20%;
+}
+.astronaut-img {
+  width: 14%;
+  z-index: 0;
+  top: 20%;
+}
+.mw-w-715 {
+  max-width: 715px;
+}
+
+.z-index-1 {
+  z-index: 1;
+}
+.mw-800 {
+  max-width: 800px;
+}
+.planet-pwoder {
+  position: absolute;
+  right: 0;
+  top: 70%;
+}
+.tokenomics-data img {height: 24px;}
+
+
+.blure-image {
+  position: absolute;
+  right: 0;
+  top: -211px;
+  z-index: 0;
+}
+.rocket-image {
+  position: absolute;
+  right: 0;
+  top: -272px;
+}
+.roadmap-earth {
+  top: -594px;
+  left: 0;
+  position: absolute;
+}
+.roadmap-heading {
+  font-size: var(--font-xlg);
+  font-weight: 800;
+  color: var(--white);
+}
+
+.roadmap-cricle {
+  border-radius: 50%;
+  box-shadow: -3px 3px 26.289772033691406px 0px #ffffff80;
+}
+
+.bg-dahed-line-img {
+  width: 9px;
+  height: 100%;
+  background-image: url("../images/png/Line-roadmap.png");
+  background-repeat: no-repeat;
+}
+
+.apply-box {
+  border: 4px solid #6022ea;
+  background: linear-gradient(180deg, #442a74 0%, rgba(68, 42, 116, 0) 100%);
+  border-radius: 20px;
+}
+
+.footer-svg {
+  color: transparent;
+}
+
+.footer-svg:hover {
+  color: transparent;
+}
+
+.footer-svg img {
+  transition: all 0.5s ease-in-out;
+}
+
+.footer-svg img:hover {
+  transform: translateY(-10px);
+}
+/* ===================================astronat-css=END====================================================*/
+/*====================================ROADMAP-CSS========================================================= */
+.roadmap-bg {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-image: url("../images/png/roadmapbg.png");
+}
+.chart {
+  background: linear-gradient(31deg, #0c031d -21%, #150731 100%, #0b021c 185%);
+}
+.planet-image {
+  animation: animate 5s ease-in-out 3s infinite;
+}
+@keyframes animate {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-26px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+.footer-card {
+  border-radius: 20px;
+  background: linear-gradient(180deg, #442a74 0%, rgba(68, 42, 116, 0) 100%);
+  border: 4px solid #6022ea;
+  box-shadow: 0px 0px 15px 0px #ffffff80;
+}
+
+.h-20 {
+  height: 20%;
+}
+
+.h-60 {
+  height: 60%;
+}
+.earth-right {
+  top: -149%;
+  right: 0;
+}
+/*====================================ROADMAP-CSS=ENDS==================================================== */
+@media (min-width: 1200px) and (max-width: 1599.98px) {
+  .galaxy-pad-model-img {
+    top: 50px;
+  }
+
+  .planet-power-side-img {
+    right: 0;
+    top: -206px;
+    width: 22%;
+  }
+  .hero-image {
+    width: 45%;
+    top: -27px;
+  }
+  .astronaut-img {
+    top: 43% !important;
+  }
+  .hero-spacing {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+  .mw-500 {
+    max-width: 550px;
+  }
+}
+@media (max-width: 1399px) {
+  .earth-image {
+    top: -28%;
+  }
+  .mw-800 {
+    max-width: 486px !important;
+  }
+  .mw-500 {
+    max-width: 500px;
+  }
+  .hero-section {
+    background-size: inherit !important;
+    background-position: inherit !important;
+  }
+}
+@media (min-width: 1200px) {
+  .galaxy-pad-model-img {
+    width: 45%;
+    position: absolute;
+    left: 0px;
+    top: 0;
+  }
+}
+@media (max-width: 1199px) {
+  .earth-right {
+    top: -149%;
+  }
+  .galaxy-pad-model-img {
+    max-width: 660px;
+    margin: auto;
+  }
+
+  .planet-power-side-img {
+    width: 26%;
+  }
+
+  .astronaut-img {
+    width: 22%;
+  }
+  .hero-section {
+    background-size: inherit !important;
+    background-position: inherit !important;
+  }
+  .mw-500 {
+    max-width: 500px;
+  }
+  .hero-image {
+    width: 45%;
+    top: -27px;
+  }
+}
+@media (max-width: 991.98px) {
+  .navabr-logo {
+    width: 80% !important;
+  }
+  .infraImg {
+    top: 190px;
+    width: 30%;
+  }
+  .hero-image {
+    position: inherit !important;
+  }
+}
+@media (max-width: 768px) {
+  .earth-image {
+    top: -9%;
+  }
+  .earth-right {
+    top: -149%;
+  }
+  .earth-right {
+    top: -193%;
+  }
+  .planet-power-side-img {
+    width: 50%;
+  }
+}
+@media (max-width: 575.98px) {
+  .planet-power-side-img {
+    top: -130px;
+  }
+.tokenomics-percentages li {line-height: 24px !important ;}
+  .astronaut-img {
+    width: 49%;
+  }
+  .infraImg {
+    top: 0px;
+    width: 28%;
+  }
+}
+@media (max-width: 475px) {
+  .earth-right {
+    top: -173%;
+  }
+}
+
+/* SCROLL TOP CSS START */
+#scroll {
+  position: fixed;
+  z-index: 9999;
+  right: 20px;
+  top: 88%;
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+  background-image: url("../images/svg/chevron-double-up.svg"),
+    linear-gradient(180deg, #ae00ff 0%, rgba(5, 0, 255, 0.35) 100%) !important;
+  box-shadow: 1px 3px 20px rgba(0, 0, 0, 0.09);
+  text-indent: -9999px;
+  display: none;
+  -webkit-border-radius: 60px;
+  -moz-border-radius: 60px;
+  border-radius: 60px;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation: moves 2s ease-in-out infinite;
+}
+
+@keyframes moves {
+  0% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-5px);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
+
+#scroll:hover {
+  opacity: 0.9;
+  box-shadow: 0px 0px 10px white;
+}
+
+#scroll:hover span {
+  border-bottom-color: white;
+}
+/*=================NAVABR-CSS====================== */
+@import url("../../css2-1.css");
+
+.navbar-wrapper .navbar-btns button:hover {
+  background-color: transparent;
+  color: #0ed145;
+}
+
+.navbar-wrapper .navbar-btns button:hover .cmmg-soon {
+  display: inline-block;
+}
+
+.navbar-wrapper .navbar-btns button:hover .launch-app {
+  display: none;
+}
+
+.nav-btn {
+  background: linear-gradient(180deg, #ae00ff 0%, rgba(5, 0, 255, 0.35) 100%);
+  color: var(--white);
+  transition: all 0.8s ease-in-out;
+}
+
+.nav-btn:hover {
+  color: var(--white);
+  box-shadow: 0px 0px 30px #ae00ff;
+}
+
+/* NAVBAR-HOVER */
+.navbar-wrapper .nav-items-list a {
+  font-size: var(--font-sm);
+  text-decoration: none;
+  -webkit-transition: 0.3s ease-in;
+  transition: 0.3s ease-in;
+  font-weight: 600;
+  color: var(--white);
+  position: relative;
+}
+
+.navbar-wrapper .nav-items-list a:after {
+  background: none repeat scroll 0 0 transparent;
+  bottom: -12px;
+  content: "";
+  display: block;
+  height: 3px;
+  left: 50%;
+  position: absolute;
+  background: var(--white);
+  -webkit-transition: width 0.3s ease 0s, left 0.3s ease 0s;
+  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+  width: 0;
+}
+
+.navbar-wrapper .nav-items-list a:hover::after {
+  width: 100%;
+  left: 0;
+}
+
+/* NAVBAR-HOVER-END */
+
+.navbar-wrapper .search-icon {
+  z-index: 4;
+}
+
+.navbar-wrapper .hamburger-menu {
+  position: relative;
+  width: 29px;
+  cursor: pointer;
+  height: 25px;
+}
+
+.navbar-wrapper .first {
+  top: 0;
+  -webkit-transition: top 300ms 300ms cubic-bezier(0.23, 1, 0.32, 1),
+    -webkit-transform 300ms cubic-bezier(0.23, 1, 0.32, 1);
+  transition: top 300ms 300ms cubic-bezier(0.23, 1, 0.32, 1),
+    -webkit-transform 300ms cubic-bezier(0.23, 1, 0.32, 1);
+  transition: top 300ms 300ms cubic-bezier(0.23, 1, 0.32, 1),
+    transform 300ms cubic-bezier(0.23, 1, 0.32, 1);
+  transition: top 300ms 300ms cubic-bezier(0.23, 1, 0.32, 1),
+    transform 300ms cubic-bezier(0.23, 1, 0.32, 1),
+    -webkit-transform 300ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.navbar-wrapper .sec {
+  top: 11px;
+  background: #ffffff;
+  -webkit-transition: all 0ms 300ms;
+  transition: all 0ms 300ms;
+}
+
+.navbar-wrapper .third {
+  top: 22px;
+  -webkit-transition: top 300ms 300ms cubic-bezier(0.23, 1, 0.32, 1),
+    -webkit-transform 300ms cubic-bezier(0.23, 1, 0.32, 1);
+  transition: top 300ms 300ms cubic-bezier(0.23, 1, 0.32, 1),
+    -webkit-transform 300ms cubic-bezier(0.23, 1, 0.32, 1);
+  transition: top 300ms 300ms cubic-bezier(0.23, 1, 0.32, 1),
+    transform 300ms cubic-bezier(0.23, 1, 0.32, 1);
+  transition: top 300ms 300ms cubic-bezier(0.23, 1, 0.32, 1),
+    transform 300ms cubic-bezier(0.23, 1, 0.32, 1),
+    -webkit-transform 300ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.navbar-wrapper .hamburger-menu span {
+  width: 100%;
+  height: 3px;
+  background-color: var(--white);
+  border-radius: 10px;
+  position: absolute;
+  display: inline-block;
+  left: 0;
+}
+
+.navbar-wrapper .animate .sec {
+  opacity: 0;
+}
+
+.navbar-wrapper .animate .first {
+  top: 11px;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  -webkit-transition: top 300ms cubic-bezier(0.23, 1, 0.32, 1),
+    -webkit-transform 300ms 300ms cubic-bezier(0.23, 1, 0.32, 1);
+  transition: top 300ms cubic-bezier(0.23, 1, 0.32, 1),
+    -webkit-transform 300ms 300ms cubic-bezier(0.23, 1, 0.32, 1);
+  transition: top 300ms cubic-bezier(0.23, 1, 0.32, 1),
+    transform 300ms 300ms cubic-bezier(0.23, 1, 0.32, 1);
+  transition: top 300ms cubic-bezier(0.23, 1, 0.32, 1),
+    transform 300ms 300ms cubic-bezier(0.23, 1, 0.32, 1),
+    -webkit-transform 300ms 300ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.navbar-wrapper .animate .third {
+  top: 11px;
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  -webkit-transition: top 300ms cubic-bezier(0.23, 1, 0.32, 1),
+    -webkit-transform 300ms 300ms cubic-bezier(0.23, 1, 0.32, 1);
+  transition: top 300ms cubic-bezier(0.23, 1, 0.32, 1),
+    -webkit-transform 300ms 300ms cubic-bezier(0.23, 1, 0.32, 1);
+  transition: top 300ms cubic-bezier(0.23, 1, 0.32, 1),
+    transform 300ms 300ms cubic-bezier(0.23, 1, 0.32, 1);
+  transition: top 300ms cubic-bezier(0.23, 1, 0.32, 1),
+    transform 300ms 300ms cubic-bezier(0.23, 1, 0.32, 1),
+    -webkit-transform 300ms 300ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.navbar-wrapper .hamburger-menu.animate span {
+  background-color: #ffffff;
+  z-index: 20;
+}
+
+.overlay-btns button:hover {
+  background-color: transparent;
+  color: #ffffff;
+}
+
+@media (max-width: 992px) {
+  .overlay-links {
+    color: hsl(0, 0%, 100%);
+    opacity: 1;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    position: relative;
+  }
+
+  .overlay-links::after {
+    position: absolute;
+    content: "";
+    width: 0%;
+    height: 3px;
+    left: 0;
+    bottom: -5px;
+    background-color: white;
+    transition: all 0.3s ease-in-out;
+    transform: scale(0);
+  }
+
+  .overlay-links:hover::after {
+    width: 100%;
+    transition: all 0.3s ease-in-out;
+    transform: scale(1);
+  }
+
+  .mobile-view #overlay {
+    -webkit-transition: 0.7s ease;
+    transition: 0.7s ease;
+    opacity: 1;
+    pointer-events: all;
+    z-index: 15;
+  }
+
+  .mobile-view #overlay .left {
+    opacity: 1;
+    width: 100%;
+    height: 100vh;
+  }
+
+  .mobile-view #overlay .left .copyright a {
+    font-size: 18px;
+    -webkit-animation: mymove 0.9s;
+    animation: mymove 0.9s;
+    -webkit-animation-delay: 1.2s;
+    animation-delay: 1.2s;
+    opacity: 0;
+    -webkit-transform: translateY(10px);
+    transform: translateY(10px);
+    -webkit-animation-iteration-count: 1;
+    animation-iteration-count: 1;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+  }
+
+  .mobile-view #overlay .left .copyright a:hover {
+    text-decoration: none;
+  }
+
+  .mobile-view #overlay .left ul li:nth-child(1) {
+    -webkit-animation: mymove 0.9s;
+    animation: mymove 0.9s;
+    -webkit-animation-delay: 0.2s;
+    animation-delay: 0.2s;
+    -webkit-transform: translateY(10px);
+    transform: translateY(10px);
+    -webkit-animation-iteration-count: 1;
+    animation-iteration-count: 1;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+  }
+
+  .mobile-view #overlay .left ul li:nth-child(2) {
+    -webkit-animation: mymove 0.9s;
+    animation: mymove 0.9s;
+    -webkit-animation-delay: 0.4s;
+    animation-delay: 0.4s;
+    -webkit-transform: translateY(10px);
+    transform: translateY(10px);
+    -webkit-animation-iteration-count: 1;
+    animation-iteration-count: 1;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+  }
+
+  .mobile-view #overlay .left ul li:nth-child(3) {
+    -webkit-animation: mymove 0.9s;
+    animation: mymove 0.9s;
+    -webkit-animation-delay: 0.7s;
+    animation-delay: 0.7s;
+    -webkit-transform: translateY(10px);
+    transform: translateY(10px);
+    -webkit-animation-iteration-count: 1;
+    animation-iteration-count: 1;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+  }
+
+  .mobile-view #overlay .left ul li:nth-child(4) {
+    -webkit-animation: mymove 0.9s;
+    animation: mymove 0.9s;
+    -webkit-animation-delay: 1s;
+    animation-delay: 1s;
+    -webkit-transform: translateY(10px);
+    transform: translateY(10px);
+    -webkit-animation-iteration-count: 1;
+    animation-iteration-count: 1;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+  }
+
+  .mobile-view #overlay .left ul li:nth-child(5) {
+    -webkit-animation: mymove 0.9s;
+    animation: mymove 0.9s;
+    -webkit-animation-delay: 1.3s;
+    animation-delay: 1.3s;
+    -webkit-transform: translateY(10px);
+    transform: translateY(10px);
+    -webkit-animation-iteration-count: 1;
+    animation-iteration-count: 1;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+  }
+
+  .mobile-view #overlay .left ul li:nth-child(6) {
+    -webkit-animation: mymove 0.9s;
+    animation: mymove 0.9s;
+    -webkit-animation-delay: 1.5s;
+    animation-delay: 1.5s;
+    -webkit-transform: translateY(10px);
+    transform: translateY(10px);
+    -webkit-animation-iteration-count: 1;
+    animation-iteration-count: 1;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+  }
+
+  .mobile-view #overlay .left ul li a {
+    font-size: 28px;
+    color: #ffffff;
+    text-decoration: none;
+  }
+
+  #overlay {
+    -webkit-transition: 1s ease !important;
+    transition: 1s ease !important;
+    opacity: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: var(--bold-blue);
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    
+  }
+}
+
+@media (min-width: 576px) {
+  .mobile-view #overlay .left ul li a {
+    font-size: 32px;
+  }
+}
+
+@-webkit-keyframes mymove {
+  from {
+    -webkit-transform: translateY(20px);
+    transform: translateY(20px);
+    opacity: 0;
+  }
+
+  to {
+    -webkit-transform: translateY(-20px);
+    transform: translateY(-20px);
+    opacity: 1;
+  }
+}
+
+@keyframes mymove {
+  from {
+    -webkit-transform: translateY(20px);
+    transform: translateY(20px);
+    opacity: 0;
+  }
+
+  to {
+    -webkit-transform: translateY(-20px);
+    transform: translateY(-20px);
+    opacity: 1;
+  }
+}
+
+.left,
+.right {
+  opacity: 0;
+}
+
+.fix-screen-mobile {
+  height: 100vh;
+  overflow: hidden;
+}
+
+.left li,
+.right li {
+  -webkit-transform: translateY(10px);
+  transform: translateY(10px);
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+  opacity: 0;
+}
+
+.left li a,
+.right li a {
+  font-size: 30px;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+@media (min-width: 576px) {
+  .left li a,
+  .right li a {
+    font-size: 40px;
+  }
+}
+
+@media (min-width: 992px) {
+  #overlay {
+    display: none;
+  }
+}
+
+/*=================NAVABR-CSS=END================== */
+.bottom-1 {
+  bottom: -1px !important;
+}
+
+.z-index-10 {
+  position: relative !important;
+  z-index: 10;
+}
