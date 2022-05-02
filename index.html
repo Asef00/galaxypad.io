@@ -83,7 +83,7 @@
                             <li class="n-item px-3 px-xxl-4 text-white nav-items-list  fw-medium">
                                 <a class="fw-bold" href="#Galaxymap">ApolloMap</a>
 
-                            <!-- <li class="  px-3 px-xxl-4">
+                                <!-- <li class="  px-3 px-xxl-4">
                                 <a href="index-1.htm" class="rounded-pill nav-btn px-4 py-3 text-decoration-none font-sm
                                     fw-semi-bold">Launch
                                     App</a>
@@ -754,19 +754,25 @@
         <!-------------- APPLY-BOX-STARTS --------------------->
         <section class="mb-sm-5 pb-5">
             <div class="container py-5 ">
-                <div class="col-xl-10 mx-auto apply-box p-4 p-sm-5 text-center text-sm-start" data-aos="fade-up"
+                <div class="c-contract col-xl-10 mx-auto apply-box p-4 p-sm-5 text-center text-sm-start" data-aos="fade-up"
                     data-aos-duration="2500">
-                    <div class="d-flex flex-column flex-lg-row justify-content-between align-items-lg-center">
+                    <div class="d-flex flex-column justify-content-between align-items-lg-center">
                         <div>
-                            <h1 class="font-lg fw-semi-bold text-white mb-3 pb-1">Apply for an IDO on Apollo finance
+                            <p class="para ff-fira-sains" style="font-size:25px;text-align: center;">
+                                Contract Address
+                            </p>
+                            <h1 class="fw-semi-bold text-white mb-3 pb-1 contract-addr">
+                                0xE42Ecf1A6681Bfb37255f1093b9121e7d3861c08
                             </h1>
-                            <p class="para ff-fira-sains">Submit your project and get response within 24 hours</p>
                         </div>
-                        <div>
+                        <!-- <div>
                             <a href="forms/d/e/1FAIpQLSeahmQCMmrIbWCnPSmF3PBDaiM6NcowENwtM03xQk2SMmbAgw/viewform.html"><button
-                                    class="common-btn py-3 px-5 border-0 ff-fira-sains" type="button">Apply
-                                    Now</button></a>
-                        </div>
+                                    class="common-btn py-3 px-5 border-0 ff-fira-sains" type="button">
+                                    Apply
+                                    Now
+                                </button>
+                            </a>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -823,6 +829,29 @@
     </script>
     <script src="aos@2.3.1/dist/aos.js"></script>
     <script src="assets/js/link.js"></script>
+
+    <style>
+        
+        .contract-addr {
+            text-align: center;
+            font-size: 25px;
+        }
+
+        @media all and (max-width:1000px) {
+            .c-contract {
+                padding: 1em !important;
+            }
+            .contract-addr {
+                font-size: 16px;
+            }
+        }
+
+        @media all and (max-width:400px) {
+            .contract-addr {
+                font-size: 12px;
+            }
+        }
+    </style>
 
 </body>
 
